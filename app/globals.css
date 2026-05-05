@@ -3,6 +3,10 @@
 :root {
   --background: #040404;
   --foreground: #f5efdc;
+  --font-geist-sans:
+    "Segoe UI", "Inter", "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-geist-mono:
+    "Cascadia Code", "Fira Code", "JetBrains Mono", "Consolas", "Courier New", monospace;
   --navy: #090909;
   --soft-gray: #e9e4d6;
   --electric-blue: #d4af37;
