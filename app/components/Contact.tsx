@@ -103,8 +103,8 @@ export default function Contact() {
               {
                 icon: "📱",
                 label: "WhatsApp",
-                value: "+62 812 3456 7890",
-                link: "https://wa.me/628123456789",
+                value: "+62 822 4566 7891",
+                link: "https://wa.me/6282245667891",
               },
             ].map((contact, idx) => (
               <motion.a
